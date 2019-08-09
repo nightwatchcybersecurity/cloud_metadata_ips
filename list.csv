@@ -1,2 +1,4 @@
 Provider,IP Address,Description,Documentation
+AWS,169.254.169.123,Amazon Time Sync Service,https://aws.amazon.com/blogs/aws/keeping-time-with-amazon-time-sync-service/
+AWS,169.254.169.249,GRID License Service,https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ec2config-version-details.html
 AWS,169.254.169.254,Instance Metadata,https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html

@@ -6,6 +6,6 @@ AWS,169.254.169.251,Windows Activation,https://aws.amazon.com/premiumsupport/kno
 AWS,169.254.169.253,VPC DNS Resolver,https://docs.aws.amazon.com/vpc/latest/userguide/vpc-dns.html#vpc-dns-support
 AWS,169.254.169.254,EC2 Instance Metadata,https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 AWS,169.254.170.2,ECS Task Metadata,https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-metadata-endpoint-v2.html
-Azure,169.254.170.2,VM Instance Metadata,https://docs.microsoft.com/en-us/azure/virtual-machines/windows/instance-metadata-service
+Azure,169.254.169.254,VM Instance Metadata,https://docs.microsoft.com/en-us/azure/virtual-machines/windows/instance-metadata-service
 GCP,169.254.169.254,Compute Engine Instance Metadata,https://cloud.google.com/compute/docs/storing-retrieving-metadata
 GCP,metadata.google.internal,Compute Engine Instance Metadata,https://cloud.google.com/compute/docs/storing-retrieving-metadata

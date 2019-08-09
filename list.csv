@@ -1,0 +1,2 @@
+Provider,IP Address,Description,Documentation
+AWS,169.254.169.254,Instance Metadata,https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html

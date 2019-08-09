@@ -1,4 +1,10 @@
 Provider,IP Address,Description,Documentation
-AWS,169.254.169.123,Amazon Time Sync Service,https://aws.amazon.com/blogs/aws/keeping-time-with-amazon-time-sync-service/
+AWS,169.254.169.123,Time Sync Service,https://aws.amazon.com/blogs/aws/keeping-time-with-amazon-time-sync-service/
 AWS,169.254.169.249,GRID License Service,https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ec2config-version-details.html
-AWS,169.254.169.254,Instance Metadata,https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
+AWS,169.254.169.250,Windows Activation,https://aws.amazon.com/premiumsupport/knowledge-center/windows-activation-fails/
+AWS,169.254.169.251,Windows Activation,https://aws.amazon.com/premiumsupport/knowledge-center/windows-activation-fails/
+AWS,169.254.169.253,VPC DNS Resolver,https://docs.aws.amazon.com/vpc/latest/userguide/vpc-dns.html#vpc-dns-support
+AWS,169.254.169.254,EC2 Instance Metadata,https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
+AWS,169.254.170.2,ECS Task Metadata,https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-metadata-endpoint-v2.html
+GCP,169.254.169.254,Compute Engine Instance Metadata,https://cloud.google.com/compute/docs/storing-retrieving-metadata
+GCP,metadata.google.internal,Compute Engine Instance Metadata,https://cloud.google.com/compute/docs/storing-retrieving-metadata
